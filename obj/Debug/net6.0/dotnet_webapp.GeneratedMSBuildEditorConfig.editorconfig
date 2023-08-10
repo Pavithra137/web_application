@@ -1,0 +1,44 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = dotnet_webapp
+build_property.RootNamespace = dotnet_webapp
+build_property.ProjectDir = D:\Notes\Resume\brother\dotnet_webapp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Notes\Resume\brother\dotnet_webapp
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/Notes/Resume/brother/dotnet_webapp/web_application/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2ViX2FwcGxpY2F0aW9uXFBhZ2VzXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Notes/Resume/brother/dotnet_webapp/web_application/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2ViX2FwcGxpY2F0aW9uXFBhZ2VzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Notes/Resume/brother/dotnet_webapp/web_application/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2ViX2FwcGxpY2F0aW9uXFBhZ2VzXFByaXZhY3kuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Notes/Resume/brother/dotnet_webapp/web_application/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2ViX2FwcGxpY2F0aW9uXFBhZ2VzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Notes/Resume/brother/dotnet_webapp/web_application/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2ViX2FwcGxpY2F0aW9uXFBhZ2VzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Notes/Resume/brother/dotnet_webapp/web_application/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2ViX2FwcGxpY2F0aW9uXFBhZ2VzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Notes/Resume/brother/dotnet_webapp/web_application/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d2ViX2FwcGxpY2F0aW9uXFBhZ2VzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-2fcmmkoywl
